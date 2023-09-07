@@ -1,0 +1,28 @@
+{
+  "images" : [
+    {
+      "filename" : "WhatsApp Image 2023-07-26 at 13.31.47.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WhatsApp Image 2023-07-26 at 13.31.47 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WhatsApp Image 2023-07-26 at 13.31.47 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true,
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "original"
+  }
+}
